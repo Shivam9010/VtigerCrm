@@ -6,6 +6,15 @@ public class TestCaseLayer {
         tc.Tc002();
 		tc.Tc003();
 	}
+
+
+
+	public static void m1(String[] args) {
+       TestCaseLayer tc=new	TestCaseLayer();
+		tc.Tc001();
+        tc.Tc002();
+		tc.Tc003();
+	}
 	
 	public void Tc001() {
 		generic ge=new generic("takes/","Tc001");
