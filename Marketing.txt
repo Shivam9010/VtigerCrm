@@ -2,6 +2,7 @@ public class Cam_Alltext {
 	public static void main(String[] args) {
 		System.setProperty("webdriver.chrome.driver", "Driver//chromedriver.exe");
 
+System.setProperty("webdriver.chrome.driver", "Driver//chromedriver.exe");
 		ChromeDriver driver = new ChromeDriver();
 		driver.get("http:localhost:8888");
 
