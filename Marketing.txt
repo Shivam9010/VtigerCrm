@@ -5,7 +5,7 @@ public class Cam_Alltext {
 how are you
 
 
-
+hp  laptop
 
 
 System.setProperty("webdriver.chrome.driver", "Driver//chromedriver.exe");
