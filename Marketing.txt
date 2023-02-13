@@ -2,7 +2,7 @@ public class Cam_Alltext {
 	public static void main(String[] args) {
 		System.setProperty("webdriver.chrome.driver", "Driver//chromedriver.exe");
 
-how are you
+
 
 
 
